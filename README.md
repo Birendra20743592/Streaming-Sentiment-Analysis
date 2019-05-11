@@ -15,7 +15,7 @@ Prerequisite for step2 and step3: The saved model location should be defined in 
 
 Step2: Run the 'twitter_API.ipynb' notebook file.
 Step3: Once the notebook displays the message 'Waiting for TCP Connection', run the 'spark streaming.ipynb' file. 
-Step4: Load the "result_sample.csv" file to Tableau. (In attachment the Tableau data is already stored in packaged workbook)
+Step4: Load the "result_sample.csv" file to Tableau.
 
 
 
